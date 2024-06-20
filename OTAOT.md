@@ -3,7 +3,7 @@
 ## No.1 OTA5T
 
 **电路图**
-![电路图](module%20OTA5T.jpg)
+![电路图](https://github.com/Lvjylean/pictures/blob/main/module%20OTA5T.jpg)
 
 ```python
 from pyted import *
